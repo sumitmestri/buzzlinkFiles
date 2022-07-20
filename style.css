@@ -21,7 +21,7 @@
 
 @font-face {
     font-family: Frakton-Black;
-    src: url(markpro-black.woff) format("woff"), url(markpro-black.woff) format("woff");
+    src: url(https://cdn.jsdelivr.net/gh/omi390/buzzlinkFiles/markpro-black.woff) format("woff"), url(https://cdn.jsdelivr.net/gh/omi390/buzzlinkFiles/markpro-black.woff) format("woff");
     font-display: swap;
 }
 
