@@ -15,58 +15,58 @@
 
 @font-face {
     font-family: Frakton-Font;
-    src: url(../fonts/markpro.woff) format("woff"), url(../fonts/markpro.woff) format("woff");
+    src: url(markpro.woff) format("woff"), url(markpro.woff) format("woff");
     font-display: swap;
 }
 
 @font-face {
     font-family: Frakton-Black;
-    src: url(../fonts/markpro-black.woff) format("woff"), url(../fonts/markpro-black.woff) format("woff");
+    src: url(markpro-black.woff) format("woff"), url(markpro-black.woff) format("woff");
     font-display: swap;
 }
 
 @font-face {
     font-family: Frakton-Bold;
-    src: url(../fonts/markpro-bold.woff) format("woff"), url(../fonts/markpro-bold.woff) format("woff");
+    src: url(markpro-bold.woff) format("woff"), url(markpro-bold.woff) format("woff");
     font-display: swap;
 }
 
 @font-face {
     font-family: Frakton-Book;
-    src: url(../fonts/markpro-book.woff) format("woff"), url(../fonts/markpro-book.woff) format("woff");
+    src: url(markpro-book.woff) format("woff"), url(markpro-book.woff) format("woff");
     font-display: swap;
 }
 
 @font-face {
     font-family: Frakton-Medium;
-    src: url(../fonts/markpro-medium.woff) format("woff"), url(../fonts/markpro-medium.woff) format("woff");
+    src: url(markpro-medium.woff) format("woff"), url(markpro-medium.woff) format("woff");
     font-display: swap;
 }
 
 @font-face {
     font-family: Frakton-Thin;
-    src: url(../fonts/markpro-thin.woff) format("woff"), url(../fonts/markpro-thin.woff) format("woff");
+    src: url(markpro-thin.woff) format("woff"), url(markpro-thin.woff) format("woff");
     font-display: swap;
 }
 
 @font-face {
     font-family: Frakton-Light;
-    src: url(../fonts/markpro-light.woff) format("woff"), url(../fonts/markpro-light.woff) format("woff")
+    src: url(markpro-light.woff) format("woff"), url(markpro-light.woff) format("woff")
 }
 
 @font-face {
     font-family: Frakton-Heavy;
-    src: url(../fonts/markpro-heavy.woff) format("woff"), url(../fonts/markpro-heavy.woff) format("woff")
+    src: url(markpro-heavy.woff) format("woff"), url(markpro-heavy.woff) format("woff")
 }
 
 @font-face {
     font-family: Frakton-Hairline;
-    src: url(../fonts/markpro-hairline.woff) format("woff"), url(../fonts/markpro-hairline.woff) format("woff")
+    src: url(markpro-hairline.woff) format("woff"), url(markpro-hairline.woff) format("woff")
 }
 
 @font-face {
     font-family: Frakton-ExtraLight;
-    src: url(../fonts/markpro-extralight.woff) format("woff"), url(../fonts/markpro-extralight.woff) format("woff")
+    src: url(markpro-extralight.woff) format("woff"), url(markpro-extralight.woff) format("woff")
 }
 
 html {
